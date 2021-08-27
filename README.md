@@ -12,13 +12,15 @@ sample of showing stimuli:
 <img width="517" alt="Screen Shot 2021-08-27 at 7 16 02 PM" src="https://user-images.githubusercontent.com/69484554/131164904-28230415-57f3-4b56-93f1-7b5b8536b448.png">
 
 
-So we avereged the response time for all session of all experiments and got that graph
+So we averaged the response time for all sessions of all experiments and got that graph
+
 
 <img width="241" alt="Screen Shot 2021-08-27 at 7 18 03 PM" src="https://user-images.githubusercontent.com/69484554/131165027-b4b62867-e825-4255-8a59-4c6e4b7f482d.png">
 
-there was clear negative correlation between the familiarty level and response time of neurons
+there was a clear negative correlation between the familiarity level and response time of neurons
 
 And generally found out that if the image was crystal novel for the mouser vs familiar:
+
 
 <img width="209" alt="Screen Shot 2021-08-27 at 7 19 00 PM" src="https://user-images.githubusercontent.com/69484554/131165169-44567c9d-083f-453e-89a9-f25072087705.png">
 
