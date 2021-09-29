@@ -27,3 +27,6 @@ And generally found out that if the image was crystal novel for the mouser vs fa
 
 Great thanks for NMA and greate instructors and TA, who mentored and helped us a lot.
 
+Slides: 
+
+[Latency response.pptx](https://github.com/Ahmed23Adel/latency-response-of-inhibitory-neurons/files/7251495/Latency.response.pptx)
